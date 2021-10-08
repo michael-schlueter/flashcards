@@ -37,7 +37,7 @@ npm install
 npm start
 ```
 in your terminal
-```
+
 
 
 ## Learnings
