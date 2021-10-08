@@ -1,26 +1,56 @@
-# To Run
+# News Application
+> This is a small Redux / Redux Toolkit application that lets you create quizzes with flashcards
 
-Run `npm start` in the project root and the app will be available on port 3000.
 
-# State
+## General Information
+- This is a Challenge Project from the Codecademy curriculum for the Full-Stack-Engineer Career-Path
+- The goal of this project was to manage the complex state of a flashcard-style quiz app
+- The project was developed outside of the Codecademy environment with few instructions
+- Parts of the front-end code were provided
 
-The app's state is totally normalized, with slices for topics, quizzes, and cards.
 
-# Routes
+## Technologies Used
+- React 17.0.1
+- Redux Toolkit 1.5.0
+- React Redux 7.2.2
 
-- `/new-topic` – form to create a new topic
-- `/topics` – index of all topics
-- `/topics/:topicId` – page for an individual topic
-- `/new-quiz` – form to create a new quiz
-- `/quizzes` – index of all quizzes
-- `/quizzes/:quizId` – page for an individual quiz
 
-# To Test
+## Features
+- Creating topics 
+- Creating quizzes about these topics
+- Providing flashcards (+ flipping animation) for these quizzes
 
-1. Create topics
-2. Create quizzes
-3. Visit the page for an individual quiz and flip the cards over
 
-# Questions
+## Screenshots
+![Example screenshot](https://i.ibb.co/nm4Gzw4/flashcards-screenshot.jpg)
 
-Is this appropriately scoped? Does it have too many features? Too few?
+
+## Setup
+The dependencies which are necessary to run this app can be found in the package.json file.
+
+1. Navigate to the project folder in the terminal and install the necessary NPM dependencies
+```
+npm install
+```
+2. Start the app in your browser by running
+```
+npm start
+```
+in your terminal
+```
+
+
+## Learnings
+- Structuring a React / Redux app with the separation into features and components
+- Getting used to work with slices, actions creators and selectors
+
+
+## Project Status
+The project is finished
+
+
+## Acknowledgements
+- This project is part of the [Codecademy](https://www.codecademy.com/) curriculum.
+
+
+
