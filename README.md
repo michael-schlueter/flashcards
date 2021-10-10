@@ -28,11 +28,12 @@
 ## Setup
 The dependencies which are necessary to run this app can be found in the package.json file.
 
-1. Navigate to the project folder in the terminal and install the necessary NPM dependencies
+1. Clone the repo
+2. Navigate to the project folder in the terminal and install the necessary NPM dependencies
 ```
 npm install
 ```
-2. Start the app in your browser by running
+3. Start the app in your browser by running
 ```
 npm start
 ```
