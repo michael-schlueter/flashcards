@@ -1,4 +1,4 @@
-# News Application
+# Flashcards
 > This is a small Redux / Redux Toolkit application that lets you create quizzes with flashcards
 
 
