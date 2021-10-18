@@ -2,11 +2,13 @@
 > This is a small Redux / Redux Toolkit application that lets you create quizzes with flashcards
 
 
+
 ## General Information
 - This is a Challenge Project from the Codecademy curriculum for the Full-Stack-Engineer Career-Path
 - The goal of this project was to manage the complex state of a flashcard-style quiz app
 - The project was developed outside of the Codecademy environment with few instructions
 - Parts of the front-end code were provided
+
 
 
 ## Technologies Used
@@ -15,14 +17,22 @@
 - React Redux 7.2.2
 
 
+
 ## Features
 - Creating topics 
 - Creating quizzes about these topics
 - Providing flashcards (+ flipping animation) for these quizzes
 
 
+
 ## Screenshots
 ![Example screenshot](https://i.ibb.co/nm4Gzw4/flashcards-screenshot.jpg)
+
+
+
+## Demo
+Live demo [_here_](https://wonderful-pasteur-d7f8dc.netlify.app/).
+
 
 
 ## Setup
@@ -46,8 +56,10 @@ in your terminal
 - Getting used to work with slices, actions creators and selectors
 
 
+
 ## Project Status
 The project is finished
+
 
 
 ## Acknowledgements
